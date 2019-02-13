@@ -1,1 +1,17 @@
+<cvars>
+<notes>
+<!-->
+place your notes here!
 
+(c) speedyplane2247 2018-2019
+<-->
+</notes>
+<list>
+<gravity>
+<currentgrav>800</currentgrav> 
+</gravity>
+<misc>
+<collide>enablde</collide>
+</misc> 
+</list>
+</cvars>
